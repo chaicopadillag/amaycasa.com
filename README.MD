@@ -14,4 +14,4 @@ Nuestra administración, con vasta experiencia en el rubro, se mantiene en const
 
 Visita la [Pagina Web de AMAYCCASA](https://amaycasa.com/)
 
-![AMAYCCASA](https://raw.githubusercontent.com/codecodero/amaycasa.com/master/img/screenshot.png.jpg 'AMMAYCCASA')
+![AMAYCCASA](https://raw.githubusercontent.com/codecodero/amaycasa.com/master/img/screenshot.png 'AMMAYCCASA')
