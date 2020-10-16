@@ -1,0 +1,11 @@
+#RewriteEngine on
+#RewriteCond %{HTTPS} !on
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+Options All -Indexes
+
+##PaginasdeErrores
+##ErrorDocument 400 /400.html
+##ErrorDocument 401 /401.html
+ErrorDocument 403 /403.html
+ErrorDocument 404 /404.html 
+ErrorDocument 500 /500.html
