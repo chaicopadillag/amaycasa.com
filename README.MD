@@ -12,6 +12,6 @@ Nuestra administración, con vasta experiencia en el rubro, se mantiene en const
 - Transporte de Carga General
 - Alquiler de Vehículos
 
-Visita la [Pagina Web](https://amaycasa.com/)
+Visita la [Pagina Web de AMAYCCASA](https://amaycasa.com/)
 
-![AMAYCCASA](/ruta/a/la/imagen.jpg 'AMMAYCCSA')
+![AMAYCCASA](https://raw.githubusercontent.com/codecodero/amaycasa.com/master/img/screenshot.png.jpg 'AMMAYCCASA')
